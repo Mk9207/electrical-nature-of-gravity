@@ -19,11 +19,15 @@ This theory suggests that what we perceive as gravity is actually a macroscopic 
 
 3. **Even insulators or non-conductive materials (e.g., rubber, ceramics) still possess structured charges at the molecular level**, which allows them to exhibit gravitational properties despite not being electrically conductive in the conventional sense.
 
+4. **Spatial polarization fields store and transfer energy.**  
+   As shown in the Energy Core Theory, gravitational polarization is not only a force effect, but also represents a form of distributed energy flow within a spatial tensor environment. This means gravity-like behavior and energy propagation are tightly coupled.
+
 ## Examples That Align with This View
 
 - **Why are metals “heavy”?** Because their electron clouds are dense and highly structured.
 - **Why do objects fall toward Earth?** Because Earth, being an electrically active body, polarizes surrounding materials at an atomic level, inducing attractive forces.
 - **Why do gas molecules still “fall” even with little mass?** Because their electrons interact with atmospheric charge distribution.
+- **Why can vacuum polarization still exert force-like behavior?** Because structured electric potential gradients in space can propagate without requiring classical mass.
 
 ## Implication
 
@@ -32,5 +36,6 @@ This hypothesis unifies electric phenomena and gravity under a single interpreti
 - Unified field theories involving EM and gravitational fields
 - Advanced propulsion or material manipulation technologies
 - A refined view of mass itself as a derivative of charge behavior
+- Efficient energy extraction through control of spatial polarization (as extended by Energy Core Theory)
 
 This is not merely a conceptual shift—it changes how we simulate, measure, and possibly manipulate “gravitational” phenomena.
