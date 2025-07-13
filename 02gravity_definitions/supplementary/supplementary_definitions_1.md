@@ -1,65 +1,84 @@
-🔹 Supplementary Definitions: Group 1
+# 🔹 Supplementary Definitions: Group 1
 
 ---
 
-🔹 Definition 23: Magnetic Flux
+## 🔹 Definition 23: Magnetic Flux
 
-Brief Definition: The amount of magnetic field penetrating a surface. Unit: weber (Wb).
+**Brief Definition:**  
+The total amount of magnetic field passing through a surface.  
+**Unit:** Weber (Wb)
 
-Relevance: Magnetic flux variations can act as triggers in changes to the electric structure of space (i.e., gravitational responses), making it an essential concept for analyzing the electric-gravitational modulation link.
-
----
-
-🔹 Definition 24: Capacitance
-
-Brief Definition: The ability to store electric charge. A fundamental property of capacitors; unit: farad (F).
-
-Relevance: The “potential difference structure” stored between space and matter relates to mass behavior and spatial polarization persistence, thus indirectly contributing to gravitational theory.
+**Relevance to This Theory:**  
+Variations in magnetic flux induce changes in electric field distributions (per Faraday’s Law), which can trigger **spatial electric field reorganization**. In this model, that reorganization leads to **local gravitational modulation**, making magnetic flux a **practical coupling mechanism** between electromagnetism and gravity.
 
 ---
 
-🔹 Definition 25: Conductor
+## 🔹 Definition 24: Capacitance
 
-Brief Definition: A material with free electrons that easily conducts electricity, e.g., metals.
+**Brief Definition:**  
+The capacity to store electric charge across two separated conductors or materials.  
+**Unit:** Farad (F)
 
-Relevance: High electron density enhances spatial polarization, which contributes to the “strength” of gravitational phenomena. Serves as a prominent electric property for theory verification.
-
----
-
-🔹 Definition 26: Interface
-
-Brief Definition: The boundary region where different materials or spaces meet.
-
-Relevance: A “discontinuity” where electric or gravitational fields change sharply—one of the most critical regions for anti-gravity or gravity-control designs.
+**Relevance to This Theory:**  
+Capacitance represents the potential difference structure between matter and surrounding space. This structure determines the **persistence of spatial polarization**, which is central to **mass stability and gravitational behavior** in the electric gravity model.
 
 ---
 
-🔹 Definition 27: Polarity
+## 🔹 Definition 25: Conductor
 
-Brief Definition: Difference in electric charge or directional property of space (positive/negative).
+**Brief Definition:**  
+A material that allows the free flow of electrons, typically metals.
 
-Relevance: The fundamental cause for directional properties in material-generated electric and gravitational fields. In anti-gravity phenomena, “inverse polarity structures” are key.
-
----
-
-🔹 Definition 28: Electrostatic Induction
-
-Brief Definition: The phenomenon where electric charges separate within a neutral material due to an external electric field.
-
-Relevance: Can induce behaviors corresponding to “apparent mass center shifts,” making it a key concept in the gravity = electricity model.
+**Relevance to This Theory:**  
+Conductors with high free-electron density generate **stronger spatial electric field gradients**, which are reinterpreted as **gravitational strength** in this theory. Conductors are also preferred in experimental designs aiming to **verify electric-based gravitational manipulation**.
 
 ---
 
-🔹 Definition 29: Ion
+## 🔹 Definition 26: Interface
 
-Brief Definition: A particle with positive or negative charge formed when an atom or molecule gains or loses electrons.
+**Brief Definition:**  
+The boundary between two distinct materials or spatial domains.
 
-Relevance: Plays a central role in forming localized electric fields in space, thereby contributing to gravitational responses.
+**Relevance to This Theory:**  
+Interfaces represent **zones of field discontinuity**—where electric or gravitational field parameters shift rapidly. These are **key control surfaces** in anti-gravity designs, allowing for **field reflection, inversion, or nullification** through engineered transitions.
 
 ---
 
-🔹 Definition 30: Electric Field Strength
+## 🔹 Definition 27: Polarity
 
-Brief Definition: Force per unit electric charge. Represents the “intensity” of an electric field.
+**Brief Definition:**  
+A directional distinction in electric charge (positive/negative) or in space’s electric orientation.
 
-Relevance: In this theory, gravitational acceleration is redefined as electric field strength, making it the most direct physical quantity involved.
+**Relevance to This Theory:**  
+Polarity defines **directional force structures**. In this theory, **gravitational directionality emerges from large-scale polarity alignment**. In anti-gravity designs, **reversed or inverted polarity fields** play a decisive role in creating upward lift or neutral zones.
+
+---
+
+## 🔹 Definition 28: Electrostatic Induction
+
+**Brief Definition:**  
+The redistribution of charges within a neutral object due to the presence of an external electric field.
+
+**Relevance to This Theory:**  
+Electrostatic induction generates **asymmetric charge distributions**, which alter the local electric field and create **temporary gravitational center shifts**. This mechanism is used to **model floating, mass shift, and force redirection** in gravity-engineered systems.
+
+---
+
+## 🔹 Definition 29: Ion
+
+**Brief Definition:**  
+An atom or molecule with a net positive or negative charge due to electron loss or gain.
+
+**Relevance to This Theory:**  
+Ions form **localized electric micro-fields** that modulate spatial field tension. Their motion and distribution directly affect **gravitational field topology**, enabling ionic materials to be **gravity-active agents** in environmental control systems.
+
+---
+
+## 🔹 Definition 30: Electric Field Strength
+
+**Brief Definition:**  
+The force experienced by a unit positive charge in an electric field.  
+**Unit:** V/m
+
+**Relevance to This Theory:**  
+Electric field strength is redefined as **equivalent to gravitational acceleration**. It is the **core measurable parameter** in this theory’s model of gravity, linking directly to object motion, energy gradient, and control field intensity.
