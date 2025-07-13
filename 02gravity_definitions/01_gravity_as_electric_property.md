@@ -1,62 +1,63 @@
-📘 Definition 01: Gravity as an Electric Property
-
-
----
-
-🔹 Original Definition: Gravity
-
-In conventional physics, gravity is defined as the attractive force between objects with mass. Newtonian mechanics formulates it as a universal force inversely proportional to the square of the distance, while Einstein's general relativity describes it as a phenomenon caused by the curvature of spacetime induced by mass.
-
-At the core of this definition lies the observed fact that “mass exists and exerts influence on other masses.” However, the fundamental mechanism behind gravity remains unresolved, and no successful unification with quantum theory has been achieved.
-
+# 📘 Definition 01: Gravity as an Electric Property
 
 ---
 
-🔹 Reinterpretation and Integration with This Theory
+## 🔹 Conventional Definition: Gravity
 
-In the context of this repository’s proposed theory, gravity is redefined as not an independent fundamental force, but an induced phenomenon emerging from electric interactions.
+In conventional physics, gravity is defined as the attractive force between objects with mass.  
+Newtonian mechanics describes it as a force inversely proportional to the square of the distance, while Einstein’s general relativity attributes it to the curvature of spacetime caused by mass.
 
-1. Mass = Electric Structure
-
-All atoms and molecules possess structured electron clouds and atomic nuclei. Their electric properties (charge distribution, polarization states) constantly interact with the surrounding space. This mass as structured charge is what induces gravity.
-
-2. Mutual Polarization with Space
-
-Space is not a perfect vacuum—it exhibits dielectric characteristics. When an object exists in space, even passively, slight polarization occurs. Gravity is thus observed as the summation of weak electric attractions.
-
-3. Insulators Are No Exception
-
-Even materials that appear electrically inert, such as insulators, have internal electronic orbits and organized charge distributions. These form subtle electric fields, thereby contributing to gravitational effects.
-
+At its core lies the empirical observation that “mass exists and exerts influence.”  
+However, the essential mechanism of gravity remains unresolved, and unification with quantum theory has yet to be achieved.
 
 ---
 
-🔹 Empirical Background and Consistency
+## 🔹 Redefinition in This Repository (User Theory)
 
-Conductors feel “heavier” because their higher electron density enhances polarization interaction with space.
+In this theory, gravity is **not an independent fundamental force**, but an **induced phenomenon resulting from electric interactions**.
 
-Gases appear lighter due to their diffuse electron clouds, which interact weakly with the electric structure of space.
-
-Objects fall toward Earth because Earth’s electric configuration (ion distribution and internal charge structure) polarizes the electron structure of surrounding materials.
-
-
+It is structured as follows:
 
 ---
 
-🔹 Unified Consequences
+### 1. Earth as a Massive Magnetic Structure
 
-This redefinition allows gravity to be unified with:
+Earth functions as a **permanent magnetic and polarized entity**, independent of its mass or composition.  
+This magnetic field acts directionally on surrounding matter (molecules, atoms, electrons), producing an attractive force.
 
-Electromagnetic Theory: Reframing gravity as a result of polarization reactions
-
-Quantum Structure: Modeling gravity as a correlation field of charged particles
-
-Cosmology: Describing attraction via vacuum polarization and space tensor modulations
-
-
+- Gravity emerges because Earth’s magnetic field **induces directional attraction on spatial electrons**.
+- This is not a “spacetime curvature” but a **mutual induction between charge distribution and the magnetic structure**.
 
 ---
 
-🔹 Conclusion
+### 2. Gravity as Inductive Force Between Fields and Structure
 
-By reconceptualizing gravity as an electric phenomenon, this theory enables a unified treatment of micro- and macro-scale behaviors that conventional mechanics cannot fully explain. It opens the door to a more refined and cohesive physical model.
+By virtually decomposing a magnet into its structural components, the **top two elements showing the strongest response to electrons** (designated A and B) were extracted.
+
+- When used to simulate magnetic behavior, these components demonstrated the ability to attract even insulators.
+- Materials with higher electronic density (e.g., rubber) **show stronger magnetic induction** and thus appear heavier.
+
+---
+
+### 3. Induction on Air Molecules
+
+- Light gases such as oxygen concentrate at higher altitudes due to the **weaker inductive force further from Earth’s magnetic center**.
+- The “expansion” of the ozone layer is explained by the increasing internal atmospheric pressure from incoming extraterrestrial material, which **pushes the ozone layer upward from within**, not from the outside.
+
+---
+
+## 🔹 Unified Theoretical Integration
+
+| Domain | Integration |
+|--------|-------------|
+| Electromagnetism | Gravity explained as interaction with electric and magnetic fields |
+| Quantum Structure | Correlated field behavior based on electron distributions |
+| Cosmology | Atmospheric and planetary gravity linked to magnetic strength |
+
+---
+
+## 🔹 Conclusion
+
+Gravity is defined as a **virtual attractive force** caused by the **inductive interaction between the electric structure of matter and Earth’s magnetic field**.
+
+This theory departs from mass-based attraction, offering a more consistent and reconstructable unified model.
