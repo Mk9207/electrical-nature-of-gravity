@@ -1,31 +1,41 @@
-# Supplementary Definitions (Final Group): Definitions 46–49
+# 🔹 Supplementary Definitions (Final Group): Definitions 46–49
+
+---
 
 ## 🔹 Definition 46: Electric Constant (Permittivity of Free Space)
 
-**Simple Definition**: A constant indicating the ease with which an electric field spreads in a vacuum. Denoted by \( arepsilon_0 \).
+**Simple Definition:**  
+A physical constant that expresses how easily an electric field can form and spread in a vacuum. Denoted by \( \varepsilon_0 \).
 
-**Relation to This Theory**: As a fundamental physical constant defining the baseline scale for electric field structures in space, it serves as the foundational "spatial structure constant" in the gravity = electric property theory.
+**Relevance to This Theory:**  
+This constant defines the **baseline spatial structure** for electric fields in empty space. In the "Gravity = Electric Property" theory, it is elevated to a **foundational constant of spatial configuration**, essential for scaling and modeling gravitational effects derived from electric field behavior.
 
 ---
 
 ## 🔹 Definition 47: Surface Charge Density
 
-**Simple Definition**: The amount of electric charge present per unit area. Expressed as \( \sigma \).
+**Simple Definition:**  
+The quantity of electric charge per unit area on a surface. Denoted by \( \sigma \).
 
-**Relation to This Theory**: Causes the intensity and direction of electric fields concentrated on material surfaces. Used as a design indicator for the electric-to-gravitational impact on space.
+**Relevance to This Theory:**  
+Surface charge distributions **directly control electric field intensity and direction** at boundaries, affecting gravitational expression. It serves as a **key design parameter** in evaluating and engineering gravitational interactions from surface-dominated systems.
 
 ---
 
 ## 🔹 Definition 48: Plasma
 
-**Simple Definition**: A high-energy state of matter in which ionized particles move freely. Common in space.
+**Simple Definition:**  
+An ionized state of matter where electrons and ions move freely, often found in high-energy environments such as stars or space.
 
-**Relation to This Theory**: Charged particles possess the ability to reconstruct electric fields in space, making plasma a critical medium for modulating gravitational structures and potentially serving as a medium for electric-gravitational conversion.
+**Relevance to This Theory:**  
+As a **dynamic carrier of free charge**, plasma can **actively restructure electric field distributions** in its surrounding space. This positions it as a **viable medium for gravitational field manipulation**, especially in space-based applications or high-energy experimental setups.
 
 ---
 
 ## 🔹 Definition 49: Microscopic Field
 
-**Simple Definition**: Electric or magnetic fields that occur locally at atomic or molecular levels.
+**Simple Definition:**  
+Electric or magnetic fields generated on atomic or molecular scales.
 
-**Relation to This Theory**: In this theory, macroscopic gravitational structures are considered to be the aggregate result of microscopic electric field distributions, making them key to understanding the origin of gravity.
+**Relevance to This Theory:**  
+Macroscopic gravity is considered an **emergent phenomenon** resulting from the **collective behavior of microscopic electric fields**. Understanding and modeling these microfields is crucial for explaining gravity as an electric property and developing precise gravitational engineering techniques.
