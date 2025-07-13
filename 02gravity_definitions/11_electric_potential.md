@@ -1,47 +1,64 @@
-# Definition 11: Electric Potential
-
-## Original Definition (Summary)
-
-**Electric potential** refers to the potential energy per unit charge at a specific point, representing a scalar quantity that helps characterize electric fields from an energetic perspective. It is measured in volts (V), and is mathematically defined as:
-
-- The potential difference ΔV in an electric field **E** is the negative integral of the field along a path:
-
-  \[
-  \Delta V = -\int_{\mathbf{a}}^{\mathbf{b}} \mathbf{E} \cdot d\mathbf{l}
-  \]
-
-- Absolute potential is defined as the relative energy from an arbitrary reference point.
-
-Electric potential is a scalar and serves to describe the source behavior of electric fields (vector quantities).
+# 📘 Definition 11: Electric Potential
 
 ---
 
-## Relevance to This Theory
+## 🔹 Original Definition (Summary)
 
-In the "Gravity as an Electric Phenomenon" hypothesis, **the spatial distribution of electric potential is seen as the foundational structure of gravity itself**. This redefines the role of potential as follows:
+**Electric potential** is defined as the electric potential energy per unit charge at a specific point in space. It is a scalar quantity expressed in volts (V), and represents the energetic aspect of electric fields. Mathematically:
 
-1. **Reconstructing Gravitational Potential**
-   - Leveraging the structural similarity between gravitational potential (energy due to position in a gravitational field) and electric potential, gravity is described as a phenomenon of "spatial electric potential gradients."
-   - Gravitational acceleration \( g \) is proportional to the spatial change in potential:
+\[
+\Delta V = -\int_{\mathbf{a}}^{\mathbf{b}} \mathbf{E} \cdot d\mathbf{l}
+\]
 
-     \[
-     g \propto -
-abla V
-     \]
+- \( \Delta V \): Electric potential difference between points a and b  
+- \( \mathbf{E} \): Electric field vector  
+- \( d\mathbf{l} \): Displacement element along the path
 
-2. **Explaining Mass Differences via Positional Energy**
-   - Instead of describing "falling due to mass," the hypothesis interprets motion as "attraction due to potential difference," suggesting that electric potential gradients, rather than mass, determine the speed and trajectory of falling objects.
-
-3. **Gravity Control through High Potential Fields**
-   - Artificially forming high/low electric potential distributions in space enables local gravity reversal or reduction.
-   - This implies a potential to repurpose existing electrostatic field control technologies for gravity control applications.
-
-4. **Connection to Black Holes and Gravitational Lensing**
-   - Extreme electric potential concentrations caused by dense celestial bodies could be observed not as spacetime curvature, but as "polarization of electric potential gradients."
-   - Phenomena like space bending and time dilation may be explainable as "energy field gradients caused by extreme potential differences."
+Electric potential describes how much potential energy a test charge would have at a given location, relative to an arbitrary reference.
 
 ---
 
-## Conclusion
+## 🔹 Relevance to the “Gravity = Electric Property” Theory
 
-The theory proposes that electric potential, a concept traditionally confined to electromagnetism, is intrinsically linked to the structure of gravity. As a scalar field, electric potential serves as a universal descriptor of "spatial energy inclination," potentially enabling a unified understanding of gravitational, electromagnetic, and quantum phenomena.
+In this theory, **electric potential distribution is directly equated with gravitational potential**. Rather than treating gravitational potential as a standalone scalar field, it is reinterpreted as a subset of electric potential structure.
+
+---
+
+### 1. Gravity as Spatial Electric Potential Gradient
+
+- The gravitational field strength (gravitational acceleration \( g \)) is derived as:
+
+\[
+g \propto -\nabla V
+\]
+
+- Here, \( V \) represents electric potential. A downward gradient in electric potential corresponds to an attractive gravitational field.
+- This redefinition enables modeling gravity as **energy flow along electric potential gradients**.
+
+---
+
+### 2. Motion Explained by Potential Difference, Not Mass
+
+- Traditional view: “Objects fall because of their mass.”
+- This theory: “Objects move due to spatial electric potential difference.”
+- Differences in fall speed or weight between materials can be explained by how their internal electric structure responds to potential slopes, not by mass alone.
+
+---
+
+### 3. Artificial Control of Gravity via Potential Engineering
+
+- Creating localized **high or low electric potential zones** enables modulation of gravity in that region.
+- Technologies such as electrostatic field plates or capacitive shells can be adapted to **engineer directional gravitational zones**.
+
+---
+
+### 4. Deep-Space Phenomena as Extreme Potential Fields
+
+- Black holes are viewed as **extreme accumulations of electric potential gradients**, not as geometric singularities.
+- Gravitational lensing and time dilation are interpreted as **field interactions in high-gradient energy fields**, consistent with electric-based space modeling.
+
+---
+
+## 🔹 Conclusion
+
+Electric potential, long treated as a supporting scalar for electrostatics, is elevated in this theory to a **core descriptor of gravitational structure**. It provides a unified energy gradient model that merges gravity, electromagnetism, and space energy theory. Through electric potential, mass becomes motion—not cause.
