@@ -10,4 +10,4 @@ For example, a conductive metal allows electrons to move freely, hence responds 
 
 Electricity is not merely a current in wires; it is a universal descriptor of material behavior. When we say "electrical property," we are referring to the interactional capacity of a substance based on its electron structure. This, under the new hypothesis, is what generates gravitational behavior.
 
-※なお、絶縁体（ゴム等）のように電気を通さない物質でも、電子構造を内包し空間的な電位影響を及ぼすため、「重力的性質」を持つことが可能である。これについては、次章でより詳しく扱う。
+> Note: Even materials like insulators (e.g., rubber) that do not conduct electricity still possess structured electrons and influence spatial electric potential. Therefore, they can exhibit "gravitational properties." This will be examined in detail in the next section.
