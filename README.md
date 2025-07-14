@@ -1,84 +1,93 @@
 # Gravity as an Electric Phenomenon: A Paradigm Shift
 
-## Overview
+---
 
-This repository presents a new fundamental hypothesis: **gravity is not a standalone force but an emergent electric phenomenon**.  
-This theoretical proposition reinterprets classical gravitational behavior as a result of **charge distributions**, **electric polarization**, and **quantum-level structural interactions**.
+## 🌐 Overview
+
+This repository proposes a fundamental hypothesis:  
+> **Gravity is not a standalone force but an emergent electrical phenomenon.**
+
+It redefines gravitational behavior as a manifestation of:
+
+- Charge distributions within and across matter
+- Polarized electric fields at atomic and spatial levels
+- Spatial tensor distortions driven by magnetic structures
+
+This model unifies gravitational effects with electromagnetic interactions, eliminating the need for an isolated “gravitational field.”
 
 ---
 
-## Why This Matters
+## 🔍 Why This Matters
 
-Traditional understandings of gravity—whether Newtonian or relativistic—treat gravity as independent of other forces.  
-This has created a disconnect in attempts at a unified field theory. Here, gravity is explained via:
+Traditional models (Newtonian, Einsteinian) treat gravity as intrinsic to mass or spacetime curvature.  
+However, these theories fall short of explaining quantum-electromagnetic continuity or structural energy feedback.
 
-- **Charge distribution across matter and space**
-- **Interaction of polarized electric fields at molecular and atomic levels**
-- **Mass and weight as emergent properties of electric structures**
+This model solves those gaps via:
 
-This allows for reinterpretation of gravity without relying on a fundamentally separate “gravitational field.”
+- Charge-based force interaction
+- Magnetic-spatial field resonance
+- Tensor propagation aligned with Earth’s internal magnetodynamics
 
 ---
 
 ## 🌍 Earth as Magnetic Origin of Gravity
 
-A critical premise of this theory is that **Earth itself functions as a massive magnetic and polarized structure**.  
-Its entire volume generates a field that acts on the electric configurations of surrounding particles and molecules, inducing directional attraction.
+A core premise:  
+> **Earth is a magnetic body that emits a spatial distortion tensor via polarized internal structures.**
 
-This means:
+Thus:
 
-- Earth’s magnetic polarity is **not incidental**, but **foundational to gravitational effects**
-- Objects fall due to **electric-magnetic interaction**, not merely mass-curvature relations
-- Polarized material structures **interact asymmetrically** with Earth’s charge field, causing a **net downward force**
-
----
-
-## 📁 Repository Structure and Contents
-
-### 📝 Main Folders
-
-| Folder                    | Description                                                                 |
-|---------------------------|-----------------------------------------------------------------------------|
-| `01gravity_readme/`       | Introduction to the core hypothesis and gravity's redefinition             |
-| `02gravity_definitions/`  | Foundational definitions of electric terms and virtual verification conditions |
-| `energium/`               | Theoretical treatment of spatial energy structures (Energium Theory)       |
-| `spatial_transfer_models/`| Engineering extensions via spatial transfer and safe routing architectures |
-| `D_axis_structure/`       | D-axis structure theory and long-distance space-energy transfer foundation |
-| `technology/`             | Applied technologies (anti-gravity, disaster control, energy modules, etc.)|
+- Gravity arises from **interaction with Earth’s magnetic lattice**
+- Objects “fall” due to **electric tension alignment**, not spacetime curvature
+- Tensor density varies by latitude, composition, and magnetic exposure
 
 ---
 
-## 📘 Recommended Reading Order
+## 📁 Repository Structure
 
-| Order | Folder                   | Purpose                                                             |
-|-------|--------------------------|---------------------------------------------------------------------|
-| 1     | `01gravity_readme/`      | Establishes theoretical foundation                                 |
-| 2     | `02gravity_definitions/` | Introduces electric property fundamentals                          |
-| 3     | `energium/`              | Explains spatial energy structure theory                           |
-| 4     | `spatial_transfer_models/`| Outlines engineering applications and constraints                  |
-| 5     | `D_axis_structure/`      | Presents higher-level space transfer architecture                  |
-| 6     | `technology/`            | Provides practical application scenarios                           |
+| Folder                     | Description                                                                 |
+|----------------------------|-----------------------------------------------------------------------------|
+| `01gravity_readme/`        | Foundation theory and hypothesis overview                                  |
+| `02gravity_definitions/`   | Definitions for electric properties, forces, and tensor fields              |
+| `energium/`                | Structure and behavior of Energium modules (spatial energy packets)         |
+| `spatial_transfer_models/` | Application of space routing and modular transport via engineered tensors   |
+| `D_axis_structure/`        | D-axis framework enabling deep-space displacement via temporal bending      |
+| `technology/`              | Applied technologies: anti-gravity, weather control, energy routing         |
+
+---
+
+## 📘 Reading Pathway (Recommended Order)
+
+| Step | Folder                     | Purpose                                                           |
+|------|----------------------------|-------------------------------------------------------------------|
+| 1    | `01gravity_readme/`        | Establish the theoretical basis                                  |
+| 2    | `02gravity_definitions/`   | Understand key physical and virtual properties                    |
+| 3    | `energium/`                | Learn how spatial-energy structures form and function             |
+| 4    | `spatial_transfer_models/` | See how energy can be guided and stabilized                       |
+| 5    | `D_axis_structure/`        | Discover large-scale spatial displacement possibilities           |
+| 6    | `technology/`              | Examine implementations in environmental and structural systems   |
+| 🔜   | `earth_magnetic/` _(Coming soon)_ | **See how Earth’s core validates this theory from within**     |
 
 ---
 
 ## 🛡️ License
 
-This repository is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+This repository is licensed under:  
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**
 
-> **Note:**  
-> The **spatial transfer models** are covered under a more restrictive  
-> **CC BY-NC-SA 4.0 license** due to their embedded engineering structure.  
-> The **D-axis structure theory** inherits these terms and remains protected as an extension of these base models.
+> _Note_:  
+> Specific engineering models (e.g., `spatial_transfer_models/`, `D_axis_structure/`) are additionally protected under:  
+> **CC BY-NC-SA 4.0**
 
 ---
 
-## 🚧 Ongoing Development
+## 🧠 In Development
 
-This repository is under continuous improvement.  
-Contributions and feedback regarding **consistency**, **experimental design**, and **advanced modeling** are welcome.
+Actively evolving through iterative validation, simulation, and expansion.  
+Planned modules include:
 
-### Future Integration:
+- Negative energy cascade modeling  
+- Self-modulating magnetic tensors  
+- Earth as reactive lattice for gravitational modulation
 
-- Negative energy theory  
-- Structural field manipulation modules  
-- Unified tensor interactions
+---
