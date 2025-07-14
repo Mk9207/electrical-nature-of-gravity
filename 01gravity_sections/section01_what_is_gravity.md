@@ -18,7 +18,6 @@ The Earth itself is a massive magnetic and polar entity. It continuously emits f
 4. This structure explains why:
    - Metals are “heavier” — they contain denser and more reactive electron configurations.
    - Gases (e.g., oxygen) become thinner with altitude — they are less responsive to magnetic polarity and cannot remain closer to the magnetic center.
-   - Ozone depletion isn’t caused only by CO₂, but by increased Earth density from incoming cosmic particles, causing internal atmospheric pressure to rise and push ozone outward.
 
 ---
 
