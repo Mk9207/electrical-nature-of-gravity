@@ -4,90 +4,85 @@
 
 ## 🌐 Overview
 
-This repository proposes a fundamental hypothesis:  
-> **Gravity is not a standalone force but an emergent electrical phenomenon.**
+This repository proposes a foundational hypothesis:
 
-It redefines gravitational behavior as a manifestation of:
+> **Gravity is not an independent force, but an electromagnetic phenomenon arising from the inductive interaction between Earth's magnetic field and the electronic structure of matter.**
 
-- Charge distributions within and across matter
-- Polarized electric fields at atomic and spatial levels
-- Spatial tensor distortions driven by magnetic structures
+Gravity is redefined as a result of:
 
-This model unifies gravitational effects with electromagnetic interactions, eliminating the need for an isolated “gravitational field.”
+- Charge distribution and polarization within and across materials  
+- Tensorial coupling between Earth's magnetic field and electron systems  
+- Spatial distortions driven by the inner magnetic core of the planet
 
----
-
-## 🔍 Why This Matters
-
-Traditional models (Newtonian, Einsteinian) treat gravity as intrinsic to mass or spacetime curvature.  
-However, these theories fall short of explaining quantum-electromagnetic continuity or structural energy feedback.
-
-This model solves those gaps via:
-
-- Charge-based force interaction
-- Magnetic-spatial field resonance
-- Tensor propagation aligned with Earth’s internal magnetodynamics
+This model surpasses classical “mass-based” or “spacetime curvature” paradigms by treating gravity as an inducible and programmable electromagnetic effect.
 
 ---
 
-## 🌍 Earth as Magnetic Origin of Gravity
+## 🔍 Why This Theory Is Necessary
 
-A core premise:  
-> **Earth is a magnetic body that emits a spatial distortion tensor via polarized internal structures.**
+Conventional theories (Newtonian and Einsteinian) leave several gaps unresolved:
 
-Thus:
+- Discontinuity with quantum-electromagnetic systems  
+- Lack of explanation for local gravitational response variations  
+- Inability to model reversible or tunable spatial structures
 
-- Gravity arises from **interaction with Earth’s magnetic lattice**
-- Objects “fall” due to **electric tension alignment**, not spacetime curvature
-- Tensor density varies by latitude, composition, and magnetic exposure
+This model resolves those issues through:
 
----
+- Gravity as **electron mobility × Earth’s magnetic field**  
+- Attractive forces via **magnetic-spatial tensor resonance**  
+- Earth’s **core-induced scalable tensor propagation**
 
-## 📁 Repository Structure
-
-| Folder                     | Description                                                                 |
-|----------------------------|-----------------------------------------------------------------------------|
-| `01gravity_readme/`        | Foundation theory and hypothesis overview                                  |
-| `02gravity_definitions/`   | Definitions for electric properties, forces, and tensor fields              |
-| `energium/`                | Structure and behavior of Energium modules (spatial energy packets)         |
-| `spatial_transfer_models/` | Application of space routing and modular transport via engineered tensors   |
-| `D_axis_structure/`        | D-axis framework enabling deep-space displacement via temporal bending      |
-| `technology/`              | Applied technologies: anti-gravity, weather control, energy routing         |
+All forming a unified and practically applicable framework.
 
 ---
 
-## 📘 Reading Pathway (Recommended Order)
+## 🌍 Earth as the Magnetic Origin of Gravity
 
-| Step | Folder                     | Purpose                                                           |
-|------|----------------------------|-------------------------------------------------------------------|
-| 1    | `01gravity_readme/`        | Establish the theoretical basis                                  |
-| 2    | `02gravity_definitions/`   | Understand key physical and virtual properties                    |
-| 3    | `energium/`                | Learn how spatial-energy structures form and function             |
-| 4    | `spatial_transfer_models/` | See how energy can be guided and stabilized                       |
-| 5    | `D_axis_structure/`        | Discover large-scale spatial displacement possibilities           |
-| 6    | `technology/`              | Examine implementations in environmental and structural systems   |
-| 🔜   | `earth_magnetic/` _(Coming soon)_ | **See how Earth’s core validates this theory from within**     |
+> **Earth is a polar magnetic structure that emits spatial tensors, which manifest as gravity.**
+
+- Gravity = **inductive response of matter's electronic structure to Earth’s magnetic field**
+- Falling = **alignment tension between magnetic tensors and polarized electron clouds**
+- Weight = **function of electron mobility and structural density, not mass**
+- Tensor density = varies by latitude, crust composition, and magnetic exposure
 
 ---
 
-## 🛡️ License
+## 🧱 Repository Structure
 
-This repository is licensed under:  
-**Creative Commons Attribution 4.0 International (CC BY 4.0)**
-
-> _Note_:  
-> Specific engineering models (e.g., `spatial_transfer_models/`, `D_axis_structure/`) are additionally protected under:  
-> **CC BY-NC-SA 4.0**
+| Folder                      | Description                                                                |
+|----------------------------|----------------------------------------------------------------------------|
+| `01重力セクション/`        | Fundamental mechanism and hypothesis of gravity                            |
+| `02重力の定義/`            | Core definitions: electric properties, inductive forces, and tensor fields |
+| `エネルギウム/`            | Structure and behavior of spatial energy packets (Energium)                |
+| `空間転送モデル/`         | High-speed transfer models via spatial tensor modulation                   |
+| `D軸理論/`                 | Cosmic displacement theory using D-axis framework                          |
+| `テクノロジー/`            | Applications: antigravity, spatial control, marine, and medical systems    |
+| `磁気地球理論/`            | Earth's core structure and gravity as magnetic response                    |
 
 ---
 
-## 🧠 In Development
+## 📘 Recommended Reading Path
 
-Actively evolving through iterative validation, simulation, and expansion.  
-Planned modules include:
+| Step | Folder                     | Purpose                                                            |
+|------|----------------------------|--------------------------------------------------------------------|
+| 1    | `01重力セクション/`        | Introduces core hypothesis and gravitational model                 |
+| 2    | `02重力の定義/`            | Defines electric/magnetic/tensorial components                     |
+| 3    | `エネルギウム/`            | Explains energy structures and antigravity control mechanisms      |
+| 4    | `空間転送モデル/`         | Demonstrates fast transfer via spatial deformation                 |
+| 5    | `D軸理論/`                 | Describes time-asymmetric cosmic transfer framework                |
+| 6    | `テクノロジー/`            | Shows real-world implementations and system integrations           |
+| 7    | `磁気地球理論/`            | Validates the theory through Earth's internal magnetic dynamics    |
 
-- Negative energy cascade modeling  
-- Self-modulating magnetic tensors  
-- Earth as reactive lattice for gravitational modulation
+---
+
+## 🔐 License
+
+This repository is licensed under:
+
+- **Creative Commons Attribution 4.0 International (CC BY 4.0)**
+
+> Note:  
+> Certain engineering modules (e.g., `空間転送モデル/`, `D軸理論/`) are additionally protected under:  
+> **CC BY-NC-SA 4.0** (Non-Commercial, Share-Alike)
 
 ---
