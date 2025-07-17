@@ -1,7 +1,8 @@
-
 # Unified Theory Manifest: E-TIM
 
-This folder contains the definitive theoretical foundation of this repository:
+This folder contains the definitive theoretical foundation of this repository.
+
+---
 
 ## 📘 Title
 
@@ -11,51 +12,71 @@ Finalized: **July 2025**
 
 ---
 
-## 📄 Included Document
+## 📄 Core Document
 
-- **E-TIM_gravity_model_certified.pdf**  
-  A complete, peer-readable scientific document that defines gravity as an emergent electromagnetic phenomenon arising from interactions between electron structure tensors and planetary magnetic fields.
+- **E_TIM__A_Unified_Theory_of_Gravity_via_Electro_Tensorial_Induction.pdf**  
+  This is the main scientific document establishing gravity as an emergent electromagnetic phenomenon.  
+  It defines gravitational force as the result of interactions between electron structure tensors and planetary magnetic fields,  
+  forming a programmable, inductive space-time model.
+
+---
+
+## 📑 Supplementary Comparative Analysis
+
+- **Comparative_Structural_Analysis_of_Gravitational_Theories.pdf**  
+  This document provides a side-by-side structural mapping between classical gravity theories  
+  (Newtonian mechanics, General Relativity, and quantum gravity approaches)  
+  and the unified E-TIM model.  
+  It clarifies theoretical continuity, reveals limitations in prior models,  
+  and shows how E-TIM logically extends them.
 
 ---
 
 ## 🧭 Role in Repository
 
-This document serves as the theoretical nucleus of the entire repository.  
+These documents serve as the theoretical **nucleus** of the repository.  
 All other folders—such as:
 
-- `01gravity_sections/` (local field induction)  
-- `02gravity_definitions/` (formal variables and tensor structure)  
-- `Magnetic Earth Theory/` (geophysical origins)  
-- `energium/`, `D-Axis-Theory/`, `spatial_transfer_models/`, `technology/` (advanced applications)
+- `01gravity_sections/` – localized field behaviors  
+- `02gravity_definitions/` – formal tensor structures and variables  
+- `magnetic_earth_theory/` – geophysical and core-inductive origins  
+- `energium/`, `D_axis_theory/`, `spatial_transfer_models/`, `technology/` – advanced engineering and cosmological applications  
 
-are interpretations, expansions, or implementations **derived from this core theory**.
-
-No component supersedes or modifies this model unless explicitly versioned and justified.
+are structural derivatives of this core theory.  
+No component supersedes or modifies this framework unless explicitly versioned and justified.
 
 ---
 
 ## 📌 Scope and Validity
 
-- **Scientific Scope**: Defines gravity via electronic-magnetic coupling, not mass or spacetime curvature.
-- **Technological Relevance**: Supports antigravity, spatial transfer, programmable fields.
-- **Cross-Domain Integration**: Links electromagnetic theory, cosmology, material physics.
+- **Scientific Domain**: Describes gravity via inductive coupling, not mass or spacetime curvature.  
+- **Technological Relevance**: Enables programmable fields, antigravity mechanics, and spatial transfer systems.  
+- **Cross-Domain Integration**: Bridges electromagnetic theory, condensed matter, quantum structure, and cosmology.
 
 ---
 
 ## 📖 Usage and Licensing
 
-- License: **Creative Commons Attribution 4.0 International (CC BY 4.0)**
-- Free to cite, distribute, and apply with proper attribution.
-- Preferred citation format:  
-  > Koide, M. (2025). *E-TIM: A Unified Electro-Tensorial Induction Model of Gravity*.
+- **License**: Creative Commons Attribution 4.0 International (CC BY 4.0)  
+- **Free Use**: You are free to cite, share, and apply this work with proper attribution.
+- **Citation Format**:  
+  > Koide, M. (2025). *E-TIM: A Unified Electro-Tensorial Induction Model of Gravity*.  
+  > GitHub Repository: [github.com/mk9207/unified-gravity-theory](https://github.com/mk9207/unified-gravity-theory)
 
 ---
 
-## 📅 Version
+## 📅 Version Info
 
 - **Current Version**: v1.0  
 - **Finalization Date**: 2025-07-15  
-- **Document Integrity**: Sealed as complete and foundational.  
-  Future modifications, if any, will be versioned separately.
+- **Status**: Core theory sealed. All updates to downstream modules will be versioned separately.
+
+---
+
+## 🔖 Recommendation for New Readers
+
+1. Start with the comparative document to understand E-TIM’s lineage and necessity.  
+2. Then read the full E-TIM model PDF to grasp its structure and implications.  
+3. Explore subfolders for implementations, simulations, and technical applications.
 
 ---
